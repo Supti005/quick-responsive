@@ -1,0 +1,694 @@
+@media (min-width: 279px) and (max-width: 319px){
+  /* CSS */
+  .container{
+    width: 100%;
+    margin: 0px auto; 
+  }
+  .col-6{
+    width: 100%;
+    float: left;
+  }
+  .header .logo{
+    display: block;
+    text-align: center;
+  }
+  .nav-menu{
+    text-align: center;
+  }
+  .nav-menu li a{
+    font-size: 8px;
+  }
+  .banner{
+    padding: 20px 0px;
+  }
+  .banner h1 {
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 45px;
+    color: #0F2656;
+    margin: 0px 5px 5px;
+  }
+  .banner p {
+    font-size: 12px;
+    line-height: 20px;
+    color: #0F2656;
+    margin: 0px 5px 5px;
+  }
+  .banner img {
+    width: 85%;
+  }
+  .successfully {
+    width: 100%;
+    float: left;
+    padding: 5px 0px 30px;
+  }
+  .left-text h1 {
+    font-size: 45px;
+    line-height: 60px;
+  }
+  .left-text p {
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0px 5px 20px;
+    padding: 0px 5px;
+  }
+  .left-text {
+    width: 100%;
+    text-align: center;
+  }
+  .right-text {
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .right-text h1 {
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 50px;
+  }
+  .feature {
+    padding: 0px 0px 30px;
+  }
+  .col-4 {
+    width: 100%;
+  }
+  .inner-feature{
+    margin: 0PX 15px 15PX;
+  }
+  .brand{
+    text-align: center;
+  }
+  .brand h1 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 40px;
+    margin: 0px;
+  }
+  .brand-img {
+    width: 80%;
+    margin-top: 5px;
+  }
+  .inner-brand .brand-desc {
+    padding: 0px 15px;
+  }
+  .inner-brand .brand-desc p {
+    font-size: 12px;
+    line-height: 20px;
+    margin: 20px 0px;
+  }
+  .project {
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .project-img {
+    width: 80%;
+    border-radius: 20px;
+    margin: 15px 0px 0px;
+  }
+  .right-text .project-no {
+    font-size: 20px;
+    margin: 0px;
+  }
+  .right-text .project-desc {
+    font-size: 12px;
+    line-height:22px;
+    font-weight: 600;
+    padding: 0px;
+  }
+  .about{
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .about img{
+    width: 60%;
+    border-radius: 20px;
+    margin: 0px;
+  }
+  .right-text .about-text{
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 22px;
+    margin: 0px;
+  }
+  .right-text .about-desc{
+    font-size: 12px;
+    line-height: 20px;
+    margin: 20px 0px;
+    text-align: justify;
+    padding: 0px 20px;
+  }
+  .card{
+    padding: 0px 0px 20px;
+  }
+  .inner-card {
+    width: 95%;
+    padding: 2px;
+    margin: 5px;
+  }
+  .contact{
+    margin: 2px;
+  }
+  .title{
+    font-size: 10px;
+    font-weight: 600;
+    line-height: 20px;
+    margin: 0px;
+  }
+  .btn input {
+    width: 20%;
+    height: 30px;
+    padding: 5px;
+    border-radius: 15px;
+    font-size: 12px;
+  }
+  .footer p{
+    font-size: 10px;
+  }
+}
+
+
+
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+  /* CSS */
+  .container{
+    width: 100%;
+    margin: 0px auto; 
+  }
+  .col-6{
+    width: 100%;
+    float: left;
+  }
+  .header .logo{
+    display: block;
+    text-align: center;
+  }
+  .nav-menu{
+    text-align: center;
+  }
+  .nav-menu li a{
+    font-size: 12px;
+  }
+  .banner{
+    padding: 40px 0px;
+  }
+  .banner h1 {
+    font-size: 35px;
+    font-weight: 700;
+    line-height: 45px;
+    color: #0F2656;
+    margin: 0px 5px 5px;
+  }
+  .banner p {
+    font-size: 12px;
+    line-height: 20px;
+    color: #0F2656;
+    margin: 0px 5px 5px;
+  }
+  .banner img {
+    width: 85%;
+  }
+  .successfully {
+    width: 100%;
+    float: left;
+    padding: 5px 0px 30px;
+  }
+  .left-text h1 {
+    font-size: 45px;
+    line-height: 60px;
+  }
+  .left-text p {
+    font-size: 14px;
+    line-height: 22px;
+    margin: 0px 5px 20px;
+    padding: 0px 5px;
+  }
+  .left-text {
+    width: 100%;
+    text-align: center;
+  }
+  .right-text {
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .right-text h1 {
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 50px;
+  }
+  .feature {
+    padding: 0px 0px 30px;
+  }
+  .col-4 {
+    width: 100%;
+  }
+  .inner-feature{
+    margin: 0PX 15px 15PX;
+  }
+  .brand{
+    text-align: center;
+  }
+  .brand h1 {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 40px;
+    margin: 0px;
+  }
+  .brand-img {
+    width: 80%;
+    margin-top: 5px;
+  }
+  .inner-brand .brand-desc {
+    padding: 0px 15px;
+  }
+  .inner-brand .brand-desc p {
+    font-size: 12px;
+    line-height: 20px;
+    margin: 20px 0px;
+  }
+  .project {
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .project-img {
+    width: 80%;
+    border-radius: 20px;
+    margin: 15px 0px 0px;
+  }
+  .right-text .project-no {
+    font-size: 20px;
+    margin: 0px;
+  }
+  .right-text .project-desc {
+    font-size: 20px;
+    line-height: 40px;
+    font-weight: 600;
+    padding: 0px;
+  }
+  .about{
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .about img{
+    width: 60%;
+    border-radius: 20px;
+    margin: 0px;
+  }
+  .right-text .about-text{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 40px;
+    margin: 0px;
+  }
+  .right-text .about-desc{
+    font-size: 12px;
+    line-height: 20px;
+    margin: 20px 0px;
+    text-align: justify;
+    padding: 0px 20px;
+  }
+  .card{
+    padding: 0px 0px 40px;
+  }
+  .inner-card {
+    width: 95%;
+    padding: 5px;
+    margin: 5px;
+  }
+  .contact{
+    margin: 5px;
+  }
+  .title{
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 40px;
+    margin: 0px;
+  }
+  .btn input {
+    width: 30%;
+    height: 40px;
+    padding: 5px;
+    border-radius: 20px;
+    font-size: 14px;
+  }
+}
+
+
+/* 
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+  /* CSS */
+  .container{
+    width: 100%;
+    margin: 0px auto; 
+  }
+  .col-6{
+    width: 100%;
+    float: left;
+  }
+  .header .logo{
+    display: block;
+    text-align: center;
+  }
+  .nav-menu{
+    text-align: center;
+  }
+  .nav-menu li a{
+    font-size: 12px;
+  }
+  .banner{
+    padding: 45px 0px;
+  }
+  .banner h1 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    color: #0F2656;
+    margin: 0px 5px 5px;
+  }
+  .banner p {
+    font-size: 15px;
+    line-height: 25px;
+    color: #0F2656;
+    margin: 0px 10px 10px;
+  }
+  .banner img {
+    width: 95%;
+  }
+  .successfully {
+    width: 100%;
+    float: left;
+    padding: 5px 0px 30px;
+  }
+  .left-text h1 {
+    font-size: 50px;
+    line-height: 60px;
+  }
+  .left-text p {
+    font-size: 18px;
+    line-height: 28px;
+    margin: 0px 5px 20px;
+    padding: 0px 10px;
+  }
+  .left-text {
+    width: 100%;
+    text-align: center;
+  }
+  .right-text {
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .right-text h1 {
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 60px;
+  }
+  .feature {
+    padding: 0px 0px 40px;
+  }
+  .col-4 {
+    width: 100%;
+  }
+  .inner-feature{
+    margin: 0PX 15px 15PX;
+  }
+  .brand{
+    text-align: center;
+  }
+  .brand h1 {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 45px;
+    margin: 0px;
+  }
+  .brand-img {
+    width: 90%;
+    margin-top: 10px;
+  }
+  .inner-brand .brand-desc {
+    padding: 0px 15px;
+  }
+  .inner-brand .brand-desc p {
+    font-size: 15px;
+    line-height: 25px;
+    margin: 25px 0px;
+  }
+  .project {
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .project-img {
+    width: 80%;
+    border-radius: 20px;
+    margin: 15px 0px 0px;
+  }
+  .right-text .project-no {
+    font-size: 30px;
+    margin: 0px;
+  }
+  .right-text .project-desc {
+    font-size: 25px;
+    line-height: 45px;
+    font-weight: 600;
+    padding: 0px;
+  }
+  .about{
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .about img{
+    width: 70%;
+    border-radius: 20px;
+    margin: 0px;
+  }
+  .right-text .about-text{
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 45px;
+    margin: 0px;
+  }
+  .right-text .about-desc{
+    font-size: 15px;
+    line-height: 25px;
+    margin: 20px 0px;
+    text-align: justify;
+    padding: 0px 20px;
+  }
+  .card{
+    padding: 0px 0px 40px;
+  }
+  .inner-card {
+    width: 95%;
+    padding: 5px;
+    margin: 5px;
+  }
+  .contact{
+    margin: 5px;
+  }
+  .title{
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 45px;
+    margin: 0px;
+  }
+  .btn input {
+    width: 30%;5
+    height: 45px;
+    padding: 5px;
+    border-radius: 20px;
+    font-size: 18px;
+  }
+}
+
+
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+  
+  /* CSS */
+
+  .container{
+    width: 100%;
+    margin: 0px auto; 
+  }
+  .col-6{
+    width: 50%;
+    float: left;
+  }
+  .header .logo{
+    margin-left: 10px;
+  }
+  .nav-menu li a{
+    font-size: 12px;
+  }
+  .banner{
+    padding: 45px 0px;
+  }
+  .banner h1 {
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 50px;
+    color: #0F2656;
+    margin: 0px 5px 5px;
+  }
+  .banner p {
+    font-size: 25px;
+    line-height: 35px;
+    color: #0F2656;
+    margin: 0px 15px 15px;
+  }
+
+  .banner img {
+    width: 95%;
+  }
+  .successfully {
+    width: 100%;
+    float: left;
+    padding: 5px 0px 30px;
+  }
+  .left-text h1 {
+    font-size: 60px;
+    line-height: 70px;
+  }
+  .left-text p {
+    font-size: 20px;
+    line-height: 30px;
+    margin: 0px 10px 20px;
+    padding: 0px 10px;
+  }
+  .left-text {
+    width: 100%;
+    text-align: center;
+  }
+  .right-text {
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .right-text h1 {
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 70px;
+  }
+  .feature {
+    padding: 0px 0px 60px;
+  }
+  .feature .row{
+    text-align: center;
+  }
+  .col-4 {
+    width: 50%;
+  }
+  .inner-feature{
+    margin: 0PX 35px 35PX;
+  }
+  .brand{
+    text-align: center;
+  }
+  .brand h1 {
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 45px;
+    margin: 0px;
+  }
+  .brand-img {
+    width: 90%;
+    margin-top: 10px;
+  }
+  .inner-brand .brand-desc {
+    padding: 0px 15px;
+  }
+  .inner-brand .brand-desc p {
+    font-size: 15px;
+    line-height: 25px;
+    margin: 25px 0px;
+  }
+  .project {
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .project-img {
+    width: 80%;
+    border-radius: 20px;
+    margin: 15px 0px 0px;
+  }
+  .right-text .project-no {
+    font-size: 30px;
+    margin: 0px;
+  }
+  .right-text .project-desc {
+    font-size: 25px;
+    line-height: 45px;
+    font-weight: 600;
+    padding: 0px;
+  }
+  .about{
+    width: 100%;
+    float: left;
+    text-align: center;
+  }
+  .about img{
+    width: 70%;
+    border-radius: 20px;
+    margin: 0px;
+  }
+  .right-text .about-text{
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 45px;
+    margin: 0px;
+  }
+  .right-text .about-desc{
+    font-size: 15px;
+    line-height: 25px;
+    margin: 20px 0px;
+    text-align: justify;
+    padding: 0px 20px;
+  }
+  .card{
+    padding: 0px 0px 40px;
+  }
+  .inner-card {
+    width: 95%;
+    padding: 5px;
+    margin: 5px;
+  }
+  .contact{
+    margin: 5px;
+  }
+  .title{
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 45px;
+    margin: 0px;
+  }
+  .btn input {
+    width: 30%;5
+    height: 45px;
+    padding: 5px;
+    border-radius: 20px;
+    font-size: 18px;
+  }
+}
